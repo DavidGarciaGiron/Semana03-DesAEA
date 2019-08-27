@@ -1,0 +1,15 @@
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\semana3_2.csprojAssemblyReference.cache
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\App.g.cs
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\semana3_2_MarkupCompile.cache
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\MainWindow.g.cs
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\semana3_2_MarkupCompile.lref
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\bin\Debug\semana3_2.exe.config
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\bin\Debug\semana3_2.exe
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\bin\Debug\semana3_2.pdb
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\MainWindow.baml
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\semana3_2.g.resources
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\semana3_2.Properties.Resources.resources
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\semana3_2.csproj.GenerateResource.cache
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\semana3_2.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\semana3_2.exe
+C:\Users\david\Documents\6to\DesAEA\S3\semana3_2\semana3_2\obj\Debug\semana3_2.pdb
